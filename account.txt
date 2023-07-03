@@ -1,0 +1,7 @@
+taikhoan: admin@gmail.com
+mk: 1234567890
+
+use
+
+tk: bcrx175
+mk:12345678
